@@ -1,0 +1,15 @@
+.sliderimg{
+    margin-top: 10%;
+    width: 100%;
+    height: 450px;
+    object-fit: cover
+  }
+  @media only screen and (max-width: 934px) {
+    .carouselr {
+      margin-top: -9%;
+      width: 88%;
+      outline: 0;
+      width: 93% !important;
+      margin: auto !important;
+    }
+  }
